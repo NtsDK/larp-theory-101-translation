@@ -8,6 +8,7 @@ var projectBase = 'app';
 var lang = config.get('lang');
 
 var htmls = [projectDir + '/index.html'];
+var slides = ['translations/' + lang + '/**/*.html'];
 var partials = ['./translations/' + lang + '/**/*'];
     
 gulp.task('copyPresentation', function() {
@@ -31,6 +32,7 @@ gulp.task('html', function() {
 gulp.task('watch', function() {
     
     gulp.watch(htmls, ['html']);
+    gulp.watch(slides, ['html']);
     gulp.watch(partials, ['html']);
     
 });
