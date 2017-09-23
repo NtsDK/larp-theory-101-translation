@@ -10,5 +10,6 @@ In this repo you will find a web version of presentation and translations.
 1. Checkout
 2. npm i
 3. set NODE_ENV=dev && gulp dev --configFile "config\en.json"
+3(2). set NODE_ENV=dev && gulp dev --configFile "config\ru.json"
 
 If you want just look at presentation - open dist/index.html. Checked in Chrome and Firefox.

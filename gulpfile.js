@@ -14,7 +14,7 @@ var partials = ['./translations/' + lang + '/**/*'];
     
 gulp.task('copyPresentation', function() {
     return gulp.src(projectDir + '/presentation' + '/**/*')
-    .pipe(gulp.dest('dist'));
+    .pipe(gulp.dest('dist/' + lang));
 });
 
 gulp.task('html', function() {
@@ -27,7 +27,7 @@ gulp.task('html', function() {
       }
     }))
 //    .pipe(htmlmin({collapseWhitespace : true}))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('dist/' + lang))
 });
 
 gulp.task('watch', function() {
