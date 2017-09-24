@@ -6,7 +6,12 @@ b {
   font-weight: bold;
 }
 
+/* deprecated - use notes instead */
 .hidden {
+  display: none;
+}
+
+.notes {
   display: none;
 }
 
