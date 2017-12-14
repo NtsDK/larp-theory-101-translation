@@ -6,72 +6,81 @@
 4:56 (sl.6) - What is LARP? (Size and shape.)
 5:47 (sl.7) - So, what is LARP?
 
-Rules section
+Twelve LARP writing rules to live by
 7:46 (sl.8) - Twelve Rules to Live By
 8:28 (sl.9) - Rule 1: Interesting Characters
 9:25 (sl.10) - Rule 2: Interesting Stories
 10:22 (sl.11) - Rule 3: Human Stories
 11:23 (sl.12) - Rule 4: Tough Decisions
-: (sl.13) - Rule 5: Repercussions
-: (sl.14) - Rule 6: Things to Do In Game
-: (sl.15) - Rule 7: A Chance to be Noticed
-: (sl.16) - Rule 8: Try Something Different
-: (sl.17) - Rule 9: A Character Involved
-: (sl.18) - Rule 10: A Chance at Success
-: (sl.19) - Rule 11: Making the Best of Good Players
-: (sl.20) - Rule 12: Play without Interruption
-: (sl.21) - So, You Have This Brilliant Idea...
-: (sl.22) - Keep It Simple
-: (sl.23) - But I have Great Character Ideas!
-: (sl.24) - So, How Do I Build The Story?
-: (sl.25) - I didn’t see that coming...
-: (sl.26) - Isn’t that just plot?
-: (sl.27) - But is it enough?
-: (sl.28) - The Golden Triangle
-: (sl.29) - Add a story with a Triangle
-: (sl.30) - More triangles, please!
-: (sl.31) - A Common Fatal Mistake
-: (sl.32) - Compounding the Mistake
-: (sl.33) - The Cardinal Rule
-: (sl.34) - To Do is to Do
-: (sl.35) - To Do is to Do II
-: (sl.36) - To Do is to Do Too
-: (sl.37) - To Do is to Do Until It Is Done
-: (sl.38) - Size, Shape, and Duration
-: (sl.39) - Interconnection Math
-: (sl.40) - There are Limits
-: (sl.41) - The Primogen Council Problem
-: (sl.42) - It’s not just the Primogen Council...
-: (sl.43) - Variable Sized Games
-: (sl.44) - 12 Characters Walk Into A Bar...
-: (sl.45) - So How Long Should It Run?
-: (sl.46) - Don’t Skimp On the Other Bits
-: (sl.47) - Writing Characters
-: (sl.48) - How Long Should a Character Be?
-: (sl.49) - Where Is the Character Information?
-: (sl.50) - Which of those Places Do I Choose?
-: (sl.51) - How will the Choice Affect Game Play?
-: (sl.52) - Relevant is Key
-: (sl.53) - Consistency is So Important
-: (sl.54) - Details Enhance the Picture
-: (sl.55) - Bluesheets are Your Friend
-: (sl.56) - You Need to Let Go
-: (sl.57) - You Really Need to Let Go
-: (sl.58) - Don’t Forget the Cardinal Rule...
-: (sl.59) - Archetypes aren’t just for Characters
-: (sl.60) - The Actor
-: (sl.61) - The Role-Player
-: (sl.62) - The Problem Solver
-: (sl.63) - Matching Players to Characters
-: (sl.64) - The Third Dimension
-: (sl.65) - The Gunslinger
-: (sl.66) - Mechanics
-: (sl.67) - So How Do You Do Odd Things?
-: (sl.68) - But I have this Really Cool System!
-: (sl.69) - Item Cards are a Mechanic, Too
-: (sl.70) - Don’t Confuse a Prop With A Plot
-: (sl.71) - Conclusions
-: (sl.72) - More Conclusions
-: (sl.73) - Even More Conclusions
-: (sl.74) - Some Final Advice
+13:20 (sl.13) - Rule 5: Repercussions
+14:10 (sl.14) - Rule 6: Things to Do In Game
+15:18 (sl.15) - Rule 7: A Chance to be Noticed
+17:32 (sl.16) - Rule 8: Try Something Different
+18:44 (sl.17) - Rule 9: A Character Involved
+20:52 (sl.18) - Rule 10: A Chance at Success
+22:33 (sl.19) - Rule 11: Making the Best of Good Players
+23:57 (sl.20) - Rule 12: Play without Interruption
 
+How to get started
+25:56 (sl.21) - So, You Have This Brilliant Idea...
+26:40 (sl.22) - Keep It Simple
+27:48 (sl.23) - But I have Great Character Ideas!
+29:05 (sl.24) - So, How Do I Build The Story?
+30:26 (sl.25) - I didn’t see that coming...
+31:26 (sl.26) - Isn’t that just plot?
+32:40 (sl.27) - But is it enough?
+33:11 (sl.28) - The Golden Triangle
+33:56 (sl.29) - Add a story with a Triangle
+35:37 (sl.30) - More triangles, please!
+36:35 (sl.31) - A Common Fatal Mistake
+38:05 (sl.32) - Compounding the Mistake
+39:58 (sl.33) - The Cardinal Rule
+41:39 (sl.34) - To Do is to Do
+42:45 (sl.35) - To Do is to Do II
+44:37 (sl.36) - To Do is to Do Too
+47:07 (sl.37) - To Do is to Do Until It Is Done
+
+Size, Shape and Duration
+48:22 (sl.38) - Size, Shape, and Duration
+50:55 (sl.39) - Interconnection Math
+52:10 (sl.40) - There are Limits
+53:19 (sl.41) - The Primogen Council Problem
+54:13 (sl.42) - It’s not just the Primogen Council...
+55:33 (sl.43) - Variable Sized Games
+57:06 (sl.44) - 12 Characters Walk Into A Bar...
+58:35 (sl.45) - So How Long Should It Run?
+59:57 (sl.46) - Don’t Skimp On the Other Bits
+
+Writing Characters
+1:01:17 (sl.47) - Writing Characters
+1:03:22 (sl.48) - How Long Should a Character Be?
+1:04:53 (sl.49) - Where Is the Character Information?
+1:05:41 (sl.50) - Which of those Places Do I Choose?
+1:06:09 (sl.51) - How will the Choice Affect Game Play?
+1:07:26 (sl.52) - Relevant is Key
+1:08:21 (sl.53) - Consistency is So Important
+1:10:15 (sl.54) - Details Enhance the Picture
+1:11:30 (sl.55) - Bluesheets are Your Friend
+1:12:24 (sl.56) - You Need to Let Go
+1:14:30 (sl.57) - You Really Need to Let Go
+1:15:14 (sl.58) - Don’t Forget the Cardinal Rule...
+1:16:12 (sl.59) - Archetypes aren’t just for Characters
+1:16:48 (sl.60) - The Actor
+1:17:37 (sl.61) - The Role-Player
+1:18:19 (sl.62) - The Problem Solver
+1:19:10 (sl.63) - Matching Players to Characters
+1:19:59 (sl.64) - The Third Dimension
+1:20:12 (sl.65) - The Gunslinger
+
+Mechanics
+1:21:29 (sl.66) - Mechanics
+1:22:47 (sl.67) - So How Do You Do Odd Things?
+1:24:00 (sl.68) - But I have this Really Cool System!
+1:25:29 (sl.69) - Item Cards are a Mechanic, Too
+1:26:59 (sl.70) - Don’t Confuse a Prop With A Plot
+
+Conclusions
+1:27:59 (sl.71) - Conclusions
+1:29:15 (sl.72) - More Conclusions
+1:31:34 (sl.73) - Even More Conclusions
+1:33:08 (sl.74) - Some Final Advice
