@@ -7,15 +7,15 @@ b {
 }
 
 /* deprecated - use notes instead */
-.hidden {
-  display: none;
-}
+/* .hidden { */
+/*   display: none; */
+/* } */
 
 .notes {
-  display: none;
+/*   display: none; */
 }
 
-.source {
+.ru_version .source {
   display: none;
 }
 

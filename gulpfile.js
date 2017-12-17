@@ -7,7 +7,7 @@ var projectDir = 'app';
 var projectBase = 'app';
 var lang = config.get('lang');
 
-var htmls = [projectDir + '/index.html'];
+var htmls = [projectDir + '/index.html', projectDir + '/en_ru.html'];
 var customStyles = [projectDir + '/presentation/customStyles.css'];
 var slides = ['translations/' + lang + '/**/*.html'];
 var partials = ['./translations/' + lang + '/**/*'];
