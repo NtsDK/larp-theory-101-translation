@@ -6,6 +6,18 @@ b {
   font-weight: bold;
 }
 
+.flex-root{
+  display: flex;
+}
+
+.flex-1-1-auto{
+  flex: 1 1 auto;
+}
+
+.svg-img{
+  min-width: 50%;
+}
+
 /* deprecated - use notes instead */
 /* .hidden { */
 /*   display: none; */
