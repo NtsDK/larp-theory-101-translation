@@ -27,7 +27,8 @@ b {
 /*   display: none; */
 }
 
-.ru_version .source {
+.ru_version .source,
+.ru_version .notes {
   display: none;
 }
 
