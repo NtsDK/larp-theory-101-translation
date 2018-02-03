@@ -9,7 +9,7 @@ Also there is [Jeff's talk video](https://www.youtube.com/watch?v=N0HNP8UtmRw) f
 
 In this repo you will find a web version of presentation and translations.
 
-You can find final versions of presentations on my website. Presentation in [Russian](http://trechkalov.com/larp-theory-101/index.html) and [English-Russian](http://trechkalov.com/larp-theory-101/en_ru.html).
+You can find final versions of presentations on my website. Presentation in [Russian](http://trechkalov.com/larp-theory-101/index.html) and [English-Russian](http://trechkalov.com/larp-theory-101/en_ru.html) - first couple slides in Russian and rest has both original and translation texts.
 
 ### How to build ###
 
